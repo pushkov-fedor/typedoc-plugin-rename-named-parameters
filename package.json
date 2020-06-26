@@ -11,6 +11,10 @@
   "scripts": {
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pushkov-fedor/typedoc-plugin-rename-named-parameters"
+  },
   "keywords": [
     "typedoc",
     "plugin",
