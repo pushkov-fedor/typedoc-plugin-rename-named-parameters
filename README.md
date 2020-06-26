@@ -38,5 +38,5 @@ Specifies the name which will be rendered instead of **__namedParameters**.
   
 
 > You can specify **namedParameters** inside TypeDoc's configuration file  by
-> **"namedParameters": "options",**
+> **"namedParameters": "<yourCustomName>",**
 
